@@ -1,4 +1,4 @@
-Hey there stranger! 👋
+Hey there! 👋
 
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=iamnirvan&show_icons=true&theme=material-palenight"/>
 
